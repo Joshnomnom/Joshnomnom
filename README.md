@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshnomnom&label=Profile%20views&color=0e75b6&style=flat" alt="joshnomnom" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 📫 How to reach me **gogo01helo@gmail.com**
-
-- ⚡ Fun fact **Dark mode isn’t just a preference; it’s a lifestyle.**
+- 📫 How to reach me **gogo01helo@gmail.com, Jakkapat.kaiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
